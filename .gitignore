@@ -93,3 +93,8 @@ Thumbs.db
 
 # Backup files
 account_book.keystore
+
+# Screenshot and debug files
+screenshot_*.png
+ui_dump.xml
+ui_hierarchy.xml
